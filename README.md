@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://twitter.com/pumpeddev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
   <a href="https://bsky.app/profile/pumped.dev"><img src="https://img.shields.io/badge/Bsky-00599C?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
-  <a href="https://pumped.dev"><img src="https://img.shields.io/badge/My Portfolio-ff5e00?style=for-the-badge&logoColor=orange"></img></a>
 </p>
 
 <h2>💬 Skills</h2>
