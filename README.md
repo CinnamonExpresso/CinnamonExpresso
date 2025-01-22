@@ -1,7 +1,6 @@
 <h3 align="center">Welcome to my profile! 👋</h3>
 
 <p align="center">
-  Passionate about programming, mathematics, and problem solving.
   I mostly work with Python, but I also have experience with Java, JavaScript, C++, SQL, and more.
 </p>
 
