@@ -9,9 +9,9 @@
   🌟 Always open to collaboration—feel free to reach out!
 </p>
 <p align="center">
-  <a href="https://twitter.com/pumpeddev"><img src="https://img.shields.io/badge/Twitter-6F4E37?style=for-the-badge&logoColor=white"></a>
-  <a href="https://bsky.app/profile/pumped.dev"><img src="https://img.shields.io/badge/Bsky-8B5E3C?style=for-the-badge&logoColor=white"></a>
-  <a href="https://pumped.dev"><img src="https://img.shields.io/badge/Portfolio-D4A373?style=for-the-badge&logoColor=white"></a>
+  <a href="https://twitter.com/pumpeddev"><img src="https://img.shields.io/badge/Twitter-1D4ED8?style=for-the-badge&logoColor=white"></a>
+  <a href="https://bsky.app/profile/pumped.dev"><img src="https://img.shields.io/badge/Bsky-2563EB?style=for-the-badge&logoColor=white"></a>
+  <a href="https://pumped.dev"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logoColor=white"></a>
 </p>
 
 <h2>☕ Skills</h2>
@@ -21,11 +21,11 @@
 - **Tools**: Visual Studio Code, Git, GitHub
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/JavaScript-D4A373?style=for-the-badge&logo=javascript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Python-6F4E37?style=for-the-badge&logo=python&logoColor=white">  
-  <img src="https://img.shields.io/badge/PostgreSQL-8B5E3C?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-C19A6B?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-8B5E3C?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white">  
+  <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-3B82F6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-1E40AF?style=for-the-badge&logo=Java&logoColor=white">
 </p>
 
 
