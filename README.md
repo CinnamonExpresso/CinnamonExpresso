@@ -1,12 +1,13 @@
 <h3 align="center">Welcome to my profile! 👋</h3>
 
 <p align="center">
-  I mostly work with Python, but I also have experience with Java, JavaScript, C++, SQL, and more.
+  I'm a Math and Physics student with an interest in problem solving and programming.
+  I mostly work with Python, but I also have experience with Java, JavaScript, C++, SQL, and various other programming languages.
 </p>
 
 <h2>💬 Socials</h2>
 <p align="center">
-  🌟 Always open to collaboration—feel free to reach out!
+  Always open to collaboration, feel free to reach out!
 </p>
 <p align="center">
   <a href="https://twitter.com/pumpeddev"><img src="https://img.shields.io/badge/Twitter-1D4ED8?style=for-the-badge&logoColor=white"></a>
