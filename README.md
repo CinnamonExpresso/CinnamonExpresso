@@ -7,9 +7,6 @@
 
 <h2>💬 Socials</h2>
 <p align="center">
-  Always open to collaboration, feel free to reach out!
-</p>
-<p align="center">
   <a href="https://twitter.com/pumpeddev"><img src="https://img.shields.io/badge/Twitter-1D4ED8?style=for-the-badge&logoColor=white"></a>
   <a href="https://bsky.app/profile/pumped.dev"><img src="https://img.shields.io/badge/Bsky-2563EB?style=for-the-badge&logoColor=white"></a>
   <a href="https://pumped.dev"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logoColor=white"></a>
@@ -18,7 +15,7 @@
 <h2>☕ Skills</h2>
 
 - **Languages**: Java, JavaScript, TypeScript, PostgreSQL, Python, HTML/CSS
-- **Frameworks & Libraries**: React, Bootstrap, MongoDB
+- **Frameworks & Libraries**: React, Bootstrap, MongoDB, Pygame
 - **Tools**: Visual Studio Code, Git, GitHub
 
 <p align='center'>
