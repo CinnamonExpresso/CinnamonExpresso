@@ -1,7 +1,7 @@
 <h3 align="center">Welcome to my profile! 👋</h3>
 
 <p align="center">
-  I'm a Math and Physics student with an interest in problem solving and programming.
+  I'm a Math student with an interest in programming.
   I mostly work with Python, but I also have experience with Java, JavaScript, C++, SQL, and various other programming languages.
 </p>
 
