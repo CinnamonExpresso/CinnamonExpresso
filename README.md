@@ -5,11 +5,6 @@
   I mostly work with Python, but I also have experience with Java, JavaScript, C++, SQL, and various other programming languages.
 </p>
 
-<h2>💬 Socials</h2>
-<p align="center">
-  <a href="https://pumped.dev"><img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logoColor=white"></a>
-</p>
-
 <h2>☕ Skills</h2>
 
 - **Languages**: Java, JavaScript, TypeScript, PostgreSQL, Python, HTML/CSS
