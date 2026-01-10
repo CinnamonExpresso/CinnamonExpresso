@@ -5,10 +5,6 @@
   I mostly work with Python, but I also have experience with Java, JavaScript, C++, SQL, and various other programming languages.
 </p>
 
-<div align="center">
-<a href="https://pumped.dev"><img src="https://img.shields.io/badge/Portfolio-6B00FF?style=for-the-badge&logoColor=white"></a>
-</div>
-
 <h2>☕ Skills</h2>
 
 - **Languages**: Java, JavaScript, TypeScript, PostgreSQL, Python, HTML/CSS
@@ -16,16 +12,15 @@
 - **Tools**: Visual Studio Code, Git, GitHub
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Python-1E40AF?style=for-the-badge&logo=python&logoColor=white">  
-  <img src="https://img.shields.io/badge/PostgreSQL-1E3A8A?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-3B82F6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-1E40AF?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-6B00FF?style=for-the-badge&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-6B00FF?style=for-the-badge&logo=python&logoColor=white">  
+  <img src="https://img.shields.io/badge/PostgreSQL-6B00FF?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-6B00FF?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 
 
-## :fire: My Stats :
+##  My Stats :
 <table align="center">
 <tr border="none">
   <td width="50%" align="center">  
