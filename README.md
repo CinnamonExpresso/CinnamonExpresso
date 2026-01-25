@@ -12,10 +12,10 @@
 - **Tools**: Visual Studio Code, Git, GitHub
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/JavaScript-6B00FF?style=for-the-badge&logo=javascript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Python-6B00FF?style=for-the-badge&logo=python&logoColor=white">  
-  <img src="https://img.shields.io/badge/PostgreSQL-6B00FF?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-6B00FF?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-275EF5?style=for-the-badge&logo=javascript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Python-275EF5?style=for-the-badge&logo=python&logoColor=white">  
+  <img src="https://img.shields.io/badge/PostgreSQL-275EF5?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-275EF5?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
 
