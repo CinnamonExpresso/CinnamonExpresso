@@ -1,15 +1,15 @@
 <h3 align="center">Welcome to my profile! 👋</h3>
 
 <p align="center">
-  I'm a Math student with an interest in programming.
-  I mostly work with Python, but I also have experience with Java, JavaScript, C++, SQL, and various other programming languages.
+  I'm a Physics & Engineering student instrested in finding solutions to complex problems.
+  For programming, I mostly work with Python, but I also have experience with Java, JavaScript, C++, SQL, and various other programming languages.
 </p>
 
 <h2>☕ Skills</h2>
 
 - **Languages**: Java, JavaScript, TypeScript, PostgreSQL, Python, HTML/CSS
-- **Frameworks & Libraries**: React, Bootstrap, MongoDB, Pygame
-- **Tools**: Visual Studio Code, Git, GitHub
+- **Frameworks & Libraries**: React, Pygame, Numpy, etc.
+- **Tools**: Visual Studio Code, Git, GitHub, MatLab, etc.
 
 <p align='center'>
   <img src="https://img.shields.io/badge/JavaScript-275EF5?style=for-the-badge&logo=javascript&logoColor=white"> 
